@@ -1,5 +1,9 @@
 ## Dodgy Game
 
-It's a game built in React ¯\\_(ツ)_/¯
+check out the repo
+
+npm install
+
+npm start
 
 [Check it out.](http://brandonstilson.com/dodgygame)
